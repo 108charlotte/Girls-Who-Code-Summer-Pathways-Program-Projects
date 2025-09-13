@@ -1,1 +1,2 @@
 # Girls-Who-Code-Summer-Pathways-Program-Projects
+This repo contains all of my files from the Girls Who Code summer pathways program! Although originally coded on replit, I decided to transfer them over here since I typically use Github for most of my projects. 
